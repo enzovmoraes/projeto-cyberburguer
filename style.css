@@ -1,0 +1,41 @@
+*{
+      color:white;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    background-color: blue;
+    margin-right: 80%;
+}
+body{
+    background-image:url(img/cyber2.png);
+    background-size:cover;
+    background-position:center;
+}
+
+.descricao{
+    line-height:1.5;
+    text-align:justify;
+}
+
+li{
+    line-height:2.5;
+}
+
+.foto{
+    margin-top:50px;
+    display:flex;
+    justify-content: center;
+}
+
+.descricao-burguer{
+margin-top:50px;
+text-align: center;
+}
+
+.cardapio{
+margin:100px;
+}
